@@ -1,2 +1,2 @@
 Olá! 
-Eu sou o instrutor desta aula e me chamo Juliano. Iremos estudar conflitos e gitflow. 
+Eu sou o instrutor desta aula e me chamo Juliano. Iremos estudar conflitos. 
